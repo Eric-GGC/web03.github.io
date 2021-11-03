@@ -1,0 +1,13 @@
+.banner{
+    background-image: url("https://res.cloudinary.com/dvl0zbtvn/image/upload/v1635842595/a3/ps_l7n8dd.jpg");
+    background-size: cover;
+    height: 50vh;
+    background-position: 0px -70px;
+}
+
+.bg-image1{
+    background-image: url("https://res.cloudinary.com/dvl0zbtvn/image/upload/v1635843230/a3/ps5_szuadx.jpg");
+    background-size: cover;
+    height: 80vh;
+    background-position: 0px -30px;
+}
